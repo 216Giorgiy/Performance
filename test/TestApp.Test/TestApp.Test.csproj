@@ -10,8 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\testapp\BasicApi\BasicApi.csproj" />
-    <ProjectReference Include="..\..\testapp\BasicViews\BasicViews.csproj" />
     <ProjectReference Include="..\..\testapp\BigModelBinding\BigModelBinding.csproj" />
     <ProjectReference Include="..\..\testapp\BigViews\BigViews.csproj" />
     <ProjectReference Include="..\..\testapp\LargeStaticFile\LargeStaticFile.csproj" />
